@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Calculator", "Calculator\Calculator.pyproj", "{343FCFCC-7122-4592-9BC2-933A107E592D}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Random", "Random\Random.pyproj", "{86B2F222-C8C9-495D-A2D7-094D1C118510}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Average", "Average\Average.pyproj", "{B51925B5-B8B3-4AE7-9224-69DE72F8B3E4}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FindWord", "FindWord\FindWord.pyproj", "{F4D65E71-2B7C-4373-A423-86A425DCB29C}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "EasterEggs", "Hello\EasterEggs.pyproj", "{4AA44E86-D1CE-4A84-B3FF-1B153796861E}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ReplaceWord", "ReplaceWord\ReplaceWord.pyproj", "{B7DFC26D-7C08-45D0-AAEC-FC26BD218C9D}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Reverse", "Reverse\Reverse.pyproj", "{485FAD74-57C0-4B1A-BEDD-AA0C2A494521}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{343FCFCC-7122-4592-9BC2-933A107E592D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{343FCFCC-7122-4592-9BC2-933A107E592D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86B2F222-C8C9-495D-A2D7-094D1C118510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86B2F222-C8C9-495D-A2D7-094D1C118510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B51925B5-B8B3-4AE7-9224-69DE72F8B3E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B51925B5-B8B3-4AE7-9224-69DE72F8B3E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4D65E71-2B7C-4373-A423-86A425DCB29C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4D65E71-2B7C-4373-A423-86A425DCB29C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AA44E86-D1CE-4A84-B3FF-1B153796861E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AA44E86-D1CE-4A84-B3FF-1B153796861E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7DFC26D-7C08-45D0-AAEC-FC26BD218C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7DFC26D-7C08-45D0-AAEC-FC26BD218C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{485FAD74-57C0-4B1A-BEDD-AA0C2A494521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{485FAD74-57C0-4B1A-BEDD-AA0C2A494521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EB2A71A-33C8-4467-BB0B-D76E61FEBAC4}
+	EndGlobalSection
+EndGlobal
